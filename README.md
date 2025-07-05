@@ -1,1 +1,2 @@
 # Projekt Automatyzacja
+Bartosz Chrzanowski
