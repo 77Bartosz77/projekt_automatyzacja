@@ -1,0 +1,12 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "express.js app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Custom test script here\"",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
